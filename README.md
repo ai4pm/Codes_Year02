@@ -3,7 +3,7 @@
 
 **Prerequisites Installation**
 
-Python 3.7 - https://www.python.org/downloads/release/python-370/
+Python 3.7.1 - https://www.python.org/downloads/release/python-371/
 
 Numpy 1.21.5 - https://pypi.org/project/numpy/1.21.5/
 
